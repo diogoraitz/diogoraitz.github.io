@@ -1,0 +1,9 @@
+# Backups locais e arquivos de trabalho — NUNCA publicar no site público
+melhorias/
+*.bak
+commit-msg.txt
+
+# Lixo de SO / editores
+Thumbs.db
+.DS_Store
+.vscode/
